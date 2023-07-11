@@ -250,3 +250,59 @@
     100% { transform: rotate(360deg); }
   }
 /*------------ Flower Galarry part end --------------- */
+
+
+
+/*------------ Latest part start --------------- */
+.latest-deal{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-top: 128px;
+    
+}
+.latest-deal-img{
+    background-image: url('images/latest-img.png');
+    width: 1440px;
+    height: 449px;
+    margin-left: 240px;
+}
+
+.latest-deal-text{
+    padding: 10%;
+}
+
+.latest-deal-heading{
+    font-family: 'Lato', sans-serif;
+    color: #272727;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.latest-deal-para{
+    font-family: 'Lato', sans-serif;
+    color: rgba(39, 39, 39, .6);
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+}
+
+.latest-deal-input{
+    width: 700px;
+    height: 64px;
+    
+}
+
+.latest-deal-input:hover{
+    transition: 0.3s ease-in-out;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.8);
+}
+
+.latest-deal-input::placeholder{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 20px;
+}
+/*------------ Latest part end --------------- */
