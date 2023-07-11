@@ -202,3 +202,27 @@
     margin-left: 100px;
 }
 /*------------ Hot deal part end --------------- */
+
+
+/*------------ Instagram part start --------------- */
+.instagram-part{
+    width: 1920px;
+    text-align: center;
+    margin-top: 128px;
+    /* margin-left: 140px; */
+    margin-bottom: 48px;
+}
+.instagram-heading{
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.instagram-para{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(39, 39, 39, .6);
+    margin-top: 24px;
+}
+/*------------ Instagram part end --------------- */
