@@ -165,3 +165,40 @@
       margin-top: 24px;
   }
   /*------------ Delivery part end --------------- */
+
+
+  
+/*------------ Hot deal part start --------------- */
+.hot-deal{
+    width: 1920px;
+    height: 620px;
+    background-color: rgba(229, 84, 115, .1);
+    display: flex;
+    align-items: center;
+}
+
+.hot-deal-left-part{
+    width: 50%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    color: #272727;
+    text-align: center;
+    margin-left: 30px;
+    padding: 200px 90px;
+}
+
+.hot-deal-para{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(39, 39, 39, .6);
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.hot-deal-right-part{
+    margin-left: 100px;
+}
+/*------------ Hot deal part end --------------- */
